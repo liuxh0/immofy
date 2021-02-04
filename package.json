@@ -1,0 +1,23 @@
+{
+  "name": "immofy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuxh0/immofy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuxh0/immofy/issues"
+  },
+  "homepage": "https://github.com/liuxh0/immofy#readme",
+  "dependencies": {
+    "oauth-1.0a": "^2.2.6"
+  }
+}
